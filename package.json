@@ -1,0 +1,10 @@
+{
+  "name": "com.poetools.design-3d",
+  "version": "0.0.1",
+  "displayName": "Poetools 3D Design",
+  "description": "Reusable tools and assets to make designing 3D games easier.",
+  "author": {
+    "name": "poetahto",
+    "email": "epic.potat@gmail.com"
+  }
+}
