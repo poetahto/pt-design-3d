@@ -7,9 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Grid
-  m_Shader: {fileID: -6465566751694194690, guid: 94f17f059ba9d2c4a8f89ab354b3ba7b,
-    type: 3}
+  m_Name: GridRed
+  m_Shader: {fileID: -6465566751694194690, guid: 94f17f059ba9d2c4a8f89ab354b3ba7b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -49,11 +48,11 @@ Material:
     - Vector1_c275b9145a22449fbaa1744a96f1637f: 1
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Tile: 1
     m_Colors:
     - Color_13c252d2dafa466bbba3d2d8e8c76a2b: {r: 1, g: 1, b: 1, a: 0}
-    - Color_7d859f7edd7a440b9b44505edab95106: {r: 1, g: 0.5697816, b: 0.21226418,
-        a: 0}
-    - _Color: {r: 1, g: 0.5565541, b: 0.28773576, a: 0}
+    - Color_7d859f7edd7a440b9b44505edab95106: {r: 1, g: 0.5697816, b: 0.21226418, a: 0}
+    - _Color: {r: 1, g: 0.28627455, b: 0.29340822, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3004244660488728983
 MonoBehaviour:
